@@ -1,0 +1,51 @@
+#badarpur {
+    background-color: #d2b48c;
+    width: 80vw;
+    border: solid black;
+    height: 100px;
+}
+/* #rodi {
+    background: repeating-linear-gradient(
+    45deg,
+    #f0f0f0,
+    #f0f0f0 10px,
+    #ffffff 10px,
+    #ffffff 20px
+    
+  );
+} */
+#cement {
+    background-color: #808080;
+    width: 80vw;
+    border: solid black;
+    height: 100px;
+  }
+
+  #rodi {
+    background: linear-gradient(45deg, #808080 25%, transparent 25%, transparent 75%, #808080 75%, #808080),
+                linear-gradient(45deg, #808080 25%, transparent 25%, transparent 75%, #808080 75%, #808080);
+    background-size: 20px 20px;
+    width: 80vw;
+    border: solid black;
+    height: 100px;
+  }
+  .imgcontainer {
+    display: flex;
+  justify-content: space-between;
+  }
+
+  #ghaan {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+#container{
+    margin-left: auto;
+  margin-right: auto;
+}
